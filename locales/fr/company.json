@@ -1,0 +1,72 @@
+{
+  "company": {
+    "header": {
+      "title": "Création d'expériences web immersives",
+      "description": "Chez Pedersen Web, je suis passionné par la transformation d'idées en expériences en ligne captivantes. Ma mission est de simplifier le web tout en aidant les entreprises à prospérer dans le monde numérique."
+    },
+    "content": {
+      "first_part": "Pedersen Web est spécialisé dans l'utilisation de frameworks modernes tels que Next.js, Vue, et de structures de bases de données robustes utilisant PostgreSQL pour construire des sites web attrayants. Notre expertise en Node.js et Golang pour le développement du backend assure une intégration transparente et des performances de premier ordre.",
+      "second_part": "Notre passion pour le web s'étend à la création d'expériences immersives grâce à WebGL, en utilisant des bibliothèques comme Three.js et GLSL pour développer des visualisations époustouflantes. Nous sommes également très compétents dans le domaine du Web3, en aidant les entreprises à exploiter le potentiel de la technologie blockchain.",
+      "third_part": "Nos offres de services tout compris sont conçues pour répondre aux besoins des entreprises de toutes tailles. De l'hébergement web et de la gestion de domaine à la maintenance continue du site, en passant par l'organisation de campagnes et la création de publicités attrayantes, nous nous engageons à vous fournir un soutien complet pour votre succès en ligne.",
+      "fourth_part": "Nous donnons la priorité à l'accessibilité et à l'optimisation des moteurs de recherche (SEO) afin de garantir que votre site web touche un public plus large et offre une expérience inclusive à tous les utilisateurs. Notre équipe se tient au courant des meilleures pratiques les plus récentes en matière d'accessibilité du web et de référencement, en mettant en œuvre des stratégies qui génèrent un trafic organique vers votre site tout en favorisant la convivialité et la conformité aux normes d'accessibilité telles que WCAG 2.1."
+    },
+    "stats": [
+      {
+        "label": "Entreprise fondée",
+        "value": "2021"
+      },
+      {
+        "label": "Projets réalisés",
+        "value": "18"
+      },
+      {
+        "label": "Clients à long terme",
+        "value": "2"
+      },
+      {
+        "label": "Satisfaction client moyenne",
+        "value": "95%"
+      }
+    ],
+    "values": {
+      "title": "Valeurs fondamentales",
+      "description": "Chez Pedersen Web, nos valeurs servent de fondement à notre travail, façonnant notre approche de chaque projet et guidant nos interactions avec les clients et les membres de l'équipe. Nous nous engageons à favoriser un environnement positif et collaboratif qui met l'accent sur l'excellence, la responsabilité et l'apprentissage continu.",
+      "list": [
+        {
+          "name": "Être de classe mondiale.",
+          "description": "Je m'efforce d'exceller dans tout ce que je fais, en visant à fournir les solutions de la plus haute qualité pour mes clients.",
+          "icon": "RocketLaunchIcon"
+        },
+        {
+          "name": "Prendre la responsabilité.",
+          "description": "Je me tiens responsable de mes actions et prends en charge mes projets, en veillant à répondre aux attentes de mes clients.",
+          "icon": "HandRaisedIcon"
+        },
+        {
+          "name": "Être solidaire.",
+          "description": "Je favorise un environnement collaboratif, encourageant la communication ouverte et le soutien pour aider mes clients à grandir.",
+          "icon": "UserGroupIcon"
+        },
+        {
+          "name": "Toujours apprendre.",
+          "description": "Je cherche continuellement des opportunités d'apprendre et d'améliorer mes compétences, en restant à jour sur les tendances et les avancées de l'industrie.",
+          "icon": "AcademicCapIcon"
+        },
+        {
+          "name": "Partagez tout ce que vous savez.",
+          "description": "Je crois au pouvoir du partage des connaissances, en partageant ouvertement mon expertise avec mes clients pour un succès mutuel.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "name": "Profiter des temps libres.",
+          "description": "Je valorise l'équilibre entre travail et vie personnelle, reconnaissant l'importance du repos et de la détente pour maintenir un environnement de travail heureux, sain et productif.",
+          "icon": "SunIcon"
+        }
+      ]
+    },
+    "about": {
+      "title": "À propos de moi",
+      "description": "En tant que fondateur de Pedersen Web, mon parcours diversifié a façonné mon approche unique du développement web. J'ai travaillé dans divers secteurs, de la construction à la vente, et j'ai même dirigé ma propre entreprise de pêche. Ma passion pour la pêche, la cuisine et la création alimente ma quête d'excellence dans le monde de la technologie. Mes expériences m'ont appris à m'adapter et à exceller dans n'importe quel domaine, me permettant d'apporter une richesse de connaissances et d'expertise à chaque projet que j'entreprends."
+    }
+  }
+}

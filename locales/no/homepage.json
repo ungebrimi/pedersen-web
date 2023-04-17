@@ -1,0 +1,87 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Skaper fengslende web-opplevelser for deg",
+      "description": "På Pedersen Web spesialiserer jeg meg på å skape engasjerende og brukervennlige nettsider som styrker din bedrift. Med min ekspertise innen moderne rammeverk og teknologi, er jeg dedikert til å hjelpe deg å lykkes i den digitale verden.",
+      "cta": "Få et tilbud"
+    },
+    "solutions": {
+      "sub_title": "Forbedre din online tilstedeværelse",
+      "title": "Komplett webutvikling skreddersydd for din bedrift",
+      "description": "Jeg forplikter meg til å gi deg end-to-end webutviklingstjenester som hjelper deg å skille deg ut i det digitale landskapet. Min ekspertise spenner over ulike teknologier og rammeverk, som gjør det mulig å levere eksepsjonelle web-opplevelser for dine kunder og støtte veksten av din bedrift.",
+      "list": [
+        {
+          "icon": "ResponsiveIcon",
+          "title": "Responsivt webdesign",
+          "description": "Jeg skaper visuelt tiltalende, funksjonelle og mobilevennlige nettsider, og sørger for optimal brukeropplevelse på tvers av ulike enheter og skjermstørrelser.",
+          "href": "/",
+          "cta": "Lær mer"
+        },
+        {
+          "icon": "WebGLIcon",
+          "title": "Tilpasset 3D-grafikk",
+          "description": "Forbedre din online tilstedeværelse med tilpasset 3D-grafikk, ved å bruke WebGL, three.js og GLSL for interaktive og fengslende opplevelser på din nettside.",
+          "href": "/",
+          "cta": "Lær mer"
+        },
+        {
+          "icon": "ServerIcon",
+          "title": "Domene og hosting",
+          "description": "Jeg tar hånd om domeneregistrering og webhotell, slik at nettsiden din alltid er tilgjengelig og yter optimalt. Du trenger ikke bekymre deg for tekniske detaljer - jeg tar meg av alt det.",
+          "href": "/",
+          "cta": "Lær mer"
+        }
+      ]
+    },
+    "services": {
+      "sub_title": "Effektive tjenester",
+      "title": "Din one-stop-shop for webutvikling",
+      "description": "Mine alt-i-ett-pakker er designet for å forenkle din webutviklingsreise, fra konsept til lansering. Jeg tar meg av alt, inkludert webhotell, domeneadministrasjon, back-end og kontinuerlig support. Du kan fokusere på din kjernevirksomhet mens jeg tar meg av resten.",
+      "list": [
+        {
+          "icon": "PerformanceIcon",
+          "title": "Webytelse",
+          "description": "Jeg fokuserer på å optimalisere nettsidens ytelse, og leverer rask lastetid og smidige brukerinteraksjoner, og forbedrer brukeropplevelsen og engasjementet."
+        },
+        {
+          "icon": "LockIcon",
+          "title": "Sikker og pålitelig",
+          "description": "Jeg prioriterer sikkerhet og pålitelighet og implementerer beste praksis og bransjestandarder for å beskytte nettstedet ditt og dataene det inneholder."
+        },
+        {
+          "icon": "PenIcon",
+          "title": "Innholdsadministrasjon",
+          "description": "Nettstedet ditt vil bli bygget med et brukervennlig innholdsadministrasjonssystem, som gjør det enkelt for deg å administrere og oppdatere innholdet ditt."
+        },
+        {
+          "icon": "FingerprintIcon",
+          "title": "Analyse og innsikt",
+          "description": "Jeg integrerer analyseverktøy for å gi deg verdifull innsikt i nettstedets ytelse og brukeradferd, slik at du kan ta datadrevne beslutninger."
+        },
+        {
+          "icon": "GearIcon",
+          "title": "Kontinuerlig support",
+          "description": "Jeg tilbyr løpende support- og vedlikeholdstjenester for å sikre at nettstedet ditt er oppdatert, sikkert og fullt funksjonelt til enhver tid."
+        },
+        {
+          "icon": "CryptoIcon",
+          "title": "Web3-integrasjon",
+          "description": "Jeg kan dra nytte av min ekspertise innen Web3 og integrere blockchain-baserte funksjoner og funksjonalitet i nettstedet ditt, og omfavne den desentraliserte fremtiden."
+        }
+      ]
+    },
+    "testimonial": {
+      "content": "Jeg anbefaler på det sterkeste denne webutvikleren! Han forklarte alt klart og jobbet veldig hardt med å lage nettsiden min, virtualia.shop. Takk for god service!",
+      "person": "Kevin Nobre",
+      "role": "CEO i Virtualia Interactive Technologies",
+      "ext_link": "Besøk virtualia shop"
+    },
+    "sub_banner": {
+      "title_elevate": "Hev din online tilstedeværelse,",
+      "title_partner": "Samarbeid med Pedersen Web i dag.",
+      "description": "Ikke gå glipp av muligheten til å transformere virksomheten din med en moderne, engasjerende og nedsenkende webopplevelse. Ta kontakt med oss og la oss begynne å skape din suksesshistorie sammen.",
+      "cta": "Kom i gang",
+      "see_more": "Lær mer"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "header": {
+    "sub_title": "Pricing",
+    "title": "My price packages",
+    "description": "Choose an affordable plan that’s packed with the best features for engaging your audience, creating customer loyalty, and driving sales.",
+    "disclaimer": "Notes: Prices are intended as an indication and other variables may affect the total price. Each website is unique and may require different customisations."
+  },
+  "pricing": {
+    "yearly": "yearly",
+    "monthly": "monthly",
+    "most_popular": "Popular",
+    "order": "Buy plan",
+    "frequencies": [
+      {
+        "value": "monthly",
+        "label": "Monthly",
+        "priceSuffix": "/month"
+      },
+      {
+        "value": "annually",
+        "label": "Annually",
+        "priceSuffix": "/year"
+      }
+    ],
+    "tiers": [
+      {
+        "name": "Freelancer",
+        "id": "tier-freelancer",
+        "href": "#",
+        "price": {
+          "monthly": "19€",
+          "annually": "205€"
+        },
+        "description": "The essentials to provide your best work for clients.",
+        "features": [
+          "Up to 5 pages",
+          "Contact Form",
+          "Basic Analytics",
+          "SSL Certificate",
+          "Responsive Design"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "999€"
+      },
+      {
+        "name": "Startup",
+        "id": "tier-startup",
+        "href": "#",
+        "price": {
+          "monthly": "39€",
+          "annually": "422€"
+        },
+        "description": "A plan that scales with your rapidly growing business.",
+        "features": [
+          "Up to 20 pages",
+          "Advanced Analytics",
+          "Contact Form",
+          "SSL Certificate",
+          "Responsive Design",
+          "Marketing automations"
+        ],
+        "mostPopular": true,
+        "oneTimeFee": "2999€"
+      },
+      {
+        "name": "Enterprise",
+        "id": "tier-enterprise",
+        "href": "#",
+        "price": {
+          "monthly": "79€",
+          "annually": "854€"
+        },
+        "description": "Dedicated support and infrastructure for your company.",
+        "features": [
+          "Unlimited pages",
+          "Unlimited products",
+          "Advanced Analytics",
+          "Contact Form",
+          "SSL Certificate",
+          "Responsive Design",
+          "Marketing automations",
+          "Custom reporting tools"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "4999€"
+      }
+    ]
+  },
+  "reviews": {
+    "person_left": {
+      "name": "Jesus Escobar",
+      "role": "CEO of Digitalmagic888",
+      "review": "“Joakim has very impressive work ethic and goes the extra mile which shows in his work. Digitalmagic888 Highly recommends him as a WebGL and full stack web programmer.”"
+    },
+    "person_right": {
+      "name": "Vic Kwanten",
+      "role": "Proffesional BMX athlete",
+      "review": "“I am very grateful to Joakim for the work he has done and the helpfulness he provides. I don't think I could ask for a better cooperation! I am very happy with how things turned out. Thanks a lot!”"
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "description_first": "Have a different question and can’t find the answer you’re looking for? Reach out to our support team by ",
+    "send_email": "sending me an email",
+    "description_second": " and I’ll get back to you as soon as we can.",
+    "questions": [
+      {
+        "question": "What services does Pedersen Web offer?",
+        "answer": "Pedersen Web specializes in web development and offers a variety of services including website design, web hosting, domain management, ongoing site maintenance, campaign management, creating advertisements, and immersive experiences through WebGL."
+      },
+      {
+        "question": "What makes Pedersen Web different from other web development companies?",
+        "answer": "Pedersen Web stands out from other web development companies by prioritizing accessibility and search engine optimization (SEO) to ensure that your website reaches a wider audience and provides an inclusive experience for all users. Our team also stays up-to-date with the latest best practices in web accessibility and SEO, implementing strategies that drive organic traffic to your site while promoting usability and compliance with accessibility standards like WCAG 2.1."
+      },
+      {
+        "question": "What is included in Pedersen Web's all-inclusive service packages?",
+        "answer": "Pedersen Web's all-inclusive service packages are designed to cater to businesses of all sizes. From web hosting and domain management to ongoing site maintenance, running campaigns, and creating engaging advertisements, we are dedicated to providing comprehensive support for your online success. Our packages also include features like web design and development, WebGL, Node.js and Golang for backend development, and robust database structures using PostgreSQL."
+      },
+      {
+        "question": "What are Pedersen Web's pricing plans?",
+        "answer": "Pedersen Web offers three pricing plans: Freelancer, Startup, and Enterprise. Freelancer has a one-time fee of 999€ and a monthly fee of 19€. Startup has a one-time fee of 2,999€ and a monthly fee of 39€. Enterprise has a one-time fee of 4,999€ and a monthly fee of 79€."
+      },
+      {
+        "question": "What is the one-time fee for?",
+        "answer": "The one-time fee is for the creation of the website itself. The monthly fee is for ongoing maintenance and support, web hosting, domain management, and other related services."
+      },
+      {
+        "question": "Does Pedersen Web offer e-commerce services?",
+        "answer": "Pedersen Web can develop e-commerce websites, but product listing and administration is generally done through external tools."
+      },
+      {
+        "question": "What is WebGL?",
+        "answer": "WebGL is a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser. It allows for the creation of immersive experiences and visualizations using libraries like Three.js and GLSL."
+      },
+      {
+        "question": "What is Web3 work?",
+        "answer": "Web3 work involves harnessing the potential of blockchain technology to build decentralized applications (dApps) that can provide more secure, transparent, and verifiable transactions. This includes creating smart contracts, developing dApps, and working with blockchain frameworks like Ethereum."
+      },
+      {
+        "question": "What is Node.js?",
+        "answer": "Node.js is a cross-platform, open-source runtime environment that allows developers to run JavaScript on the server-side. It is built on Chrome's V8 JavaScript engine and provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable network applications."
+      }
+    ]
+  }
+}

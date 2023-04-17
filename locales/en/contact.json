@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "getInTouch": "Get in touch",
+    "getInTouchText": "I'm always excited to connect with potential clients and collaborators. If you have a project in mind or simply want to learn more about my services, don't hesitate to reach out. I'm ready to discuss your ideas and help bring your vision to life. Let's create something exceptional together!",
+    "firstNameLabel": "First name",
+    "lastNameLabel": "Last name",
+    "emailLabel": "Email",
+    "phoneNumberLabel": "Phone number",
+    "messageLabel": "Message",
+    "sendMessageButton": "Send message"
+  }
+}

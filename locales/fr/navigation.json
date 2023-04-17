@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "links": [
+      {
+        "name": "Produits",
+        "href": "/products"
+      },
+      {
+        "name": "Entreprise",
+        "href": "/company"
+      },
+      {
+        "name": "Contact",
+        "href": "/contact"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "links": [
+      {
+        "name": "Produkter",
+        "href": "/products"
+      },
+      {
+        "name": "Selskap",
+        "href": "/company"
+      },
+      {
+        "name": "Kontakt",
+        "href": "/contact"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "company": {
+    "header": {
+      "title": "Crafting Immersive Web Experiences",
+      "description": "At Pedersen Web, I'm passionate about transforming ideas into captivating online experiences. My mission is to simplify the web while empowering businesses to thrive in the digital world."
+    },
+    "content": {
+      "first_part": "Pedersen Web specializes in leveraging modern frameworks like Next.js, Vue, and robust database structures using PostgreSQL to build engaging websites. Our expertise in Node.js and Golang for backend development ensures seamless integration and top-notch performance.",
+      "second_part": "Our all-inclusive service packages are designed to cater to businesses of all sizes. From web hosting and domain management to ongoing site maintenance, running campaigns, and creating engaging advertisements, we are dedicated to providing comprehensive support for your online success.",
+      "third_part": "Our passion for the web extends to creating immersive experiences through WebGL, utilizing libraries like Three.js and GLSL to develop stunning visualizations. We're also well-versed in Web3 work, helping businesses harness the potential of blockchain technology.",
+      "fourth_part": "We prioritize accessibility and search engine optimization (SEO) to ensure that your website reaches a wider audience and provides an inclusive experience for all users. Our team stays up-to-date with the latest best practices in web accessibility and SEO, implementing strategies that drive organic traffic to your site while promoting usability and compliance with accessibility standards like WCAG 2.1."
+    },
+    "stats": [
+      {
+        "label": "Business was founded",
+        "value": "2021"
+      },
+      {
+        "label": "Projects completed",
+        "value": "18"
+      },
+      {
+        "label": "Long-term clients",
+        "value": "2"
+      },
+      {
+        "label": "Average client satisfaction",
+        "value": "95%"
+      }
+    ],
+    "values": {
+      "title": "Core values",
+      "description": "At Pedersen Web, our values serve as the foundation of our work, shaping our approach to each project and guiding our interactions with clients and team members. We are committed to fostering a positive, collaborative environment that emphasizes excellence, responsibility, and continuous learning.",
+      "list": [
+        {
+          "name": "Be world-class.",
+          "description": "I strive for excellence in all that I do, aiming to deliver the highest quality solutions for my clients.",
+          "icon": "RocketLaunchIcon"
+        },
+        {
+          "name": "Take responsibility.",
+          "description": "I hold myself accountable for my actions and take ownership of my projects, ensuring I meet my clients' expectations.",
+          "icon": "HandRaisedIcon"
+        },
+        {
+          "name": "Be supportive.",
+          "description": "I foster a collaborative environment, encouraging open communication and support to help my clients grow.",
+          "icon": "UserGroupIcon"
+        },
+        {
+          "name": "Always learning.",
+          "description": "I continuously seek opportunities to learn and improve my skills, staying up-to-date with industry trends and advancements.",
+          "icon": "AcademicCapIcon"
+        },
+        {
+          "name": "Share everything you know.",
+          "description": "I believe in the power of knowledge sharing, openly sharing my expertise with my clients for mutual success.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "name": "Enjoy downtime.",
+          "description": "I value work-life balance, recognizing the importance of rest and relaxation in maintaining a happy, healthy, and productive work environment.",
+          "icon": "SunIcon"
+        }
+      ]
+    },
+    "about": {
+      "title": "About me",
+      "description": "As the founder of Pedersen Web, my diverse background has shaped my unique approach to web development. I've worked in various industries, from construction to sales, and have even run my own fishing company. My passion for fishing, cooking, and creating things drives my pursuit of excellence in the tech world. My experiences have taught me to adapt and excel in any field, allowing me to bring a wealth of knowledge and expertise to each project I undertake."
+    }
+  }
+}

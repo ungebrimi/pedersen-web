@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "getInTouch": "Ta kontakt",
+    "getInTouchText": "Jeg er alltid ivrig etter å koble meg med potensielle kunder og samarbeidspartnere. Hvis du har et prosjekt i tankene eller bare ønsker å lære mer om tjenestene mine, nøl ikke med å ta kontakt. Jeg er klar til å diskutere ideene dine og hjelpe deg med å bringe visjonen din til liv. La oss lage noe eksepsjonelt sammen!",
+    "firstNameLabel": "Fornavn",
+    "lastNameLabel": "Etternavn",
+    "emailLabel": "E-post",
+    "phoneNumberLabel": "Telefonnummer",
+    "messageLabel": "Melding",
+    "sendMessageButton": "Send melding"
+  }
+}

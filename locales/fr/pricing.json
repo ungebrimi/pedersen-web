@@ -1,0 +1,145 @@
+{
+  "header": {
+    "sub_title": "Tarification",
+    "title": "Mes forfaits",
+    "description": "Choisissez un plan abordable qui est rempli des meilleures fonctionnalités pour engager votre public, créer la fidélité des clients et stimuler les ventes.",
+    "disclaimer": "Notes : Les prix sont donnés à titre indicatif et d'autres variables peuvent affecter le prix total. Chaque site web est unique et peut nécessiter des personnalisations différentes."
+  },
+  "pricing": {
+    "yearly": "annuel",
+    "monthly": "mensuel",
+    "most_popular": "Populaire",
+    "order": "Plan d'achat",
+    "frequencies": [
+      {
+        "value": "mensuel",
+        "label": "Mensuel",
+        "priceSuffix": "/mois"
+      },
+      {
+        "value": "annuel",
+        "label": "Annuel",
+        "priceSuffix": "/an"
+      }
+    ],
+    "tiers": [
+      {
+        "name": "Freelance",
+        "id": "tier-freelance",
+        "href": "#",
+        "price": {
+          "monthly": "19 €",
+          "annually": "205 €"
+        },
+        "description": "Les essentiels pour fournir votre meilleur travail pour les clients.",
+        "features": [
+          "Jusqu'à 5 pages",
+          "Formulaire de contact",
+          "Analyse de base",
+          "Certificat SSL",
+          "Design responsive"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "999 €"
+      },
+      {
+        "name": "Startup",
+        "id": "tier-startup",
+        "href": "#",
+        "price": {
+          "monthly": "39 €",
+          "annually": "422 €"
+        },
+        "description": "Un plan qui s'adapte à votre entreprise en pleine croissance.",
+        "features": [
+          "Jusqu'à 20 pages",
+          "Analyse avancée",
+          "Formulaire de contact",
+          "Certificat SSL",
+          "Design responsive",
+          "Automatisations marketing"
+        ],
+        "mostPopular": true,
+        "oneTimeFee": "2999 €"
+      },
+      {
+        "name": "Entreprise",
+        "id": "tier-entreprise",
+        "href": "#",
+        "price": {
+          "monthly": "79 €",
+          "annually": "854 €"
+        },
+        "description": "Assistance dédiée et infrastructure pour votre entreprise.",
+        "features": [
+          "Pages illimitées",
+          "Produits illimités",
+          "Analyse avancée",
+          "Formulaire de contact",
+          "Certificat SSL",
+          "Design responsive",
+          "Automatisations marketing",
+          "Outils de reporting personnalisés"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "4999 €"
+      }
+    ]
+  },
+  "reviews": {
+    "person_left": {
+      "name": "Jesus Escobar",
+      "role": "PDG de Digitalmagic888",
+      "review": "“Joakim a une éthique de travail impressionnante et va au-delà de ce qui est attendu, ce qui se reflète dans son travail. Digitalmagic888 le recommande vivement en tant que programmeur WebGL et Full-stack web.”"
+    },
+    "person_right": {
+      "name": "Vic Kwanten",
+      "role": "Athlète professionnel de BMX",
+      "review": "“Je suis très reconnaissant envers Joakim pour le travail qu'il a réalisé et son aide précieuse. Je ne pense pas que je pouvais demander une meilleure coopération! Je suis très satisfait du résultat final. Merci beaucoup!”"
+    }
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "description_first": "Vous avez une question différente et vous ne trouvez pas la réponse que vous cherchez ? Contactez notre équipe d'assistance en ",
+    "send_email": "m'envoyant un e-mail",
+    "description_second": "et nous vous répondrons dès que possible.",
+    "questions": [
+      {
+        "question": "Quels services propose Pedersen Web?",
+        "answer": "Pedersen Web se spécialise dans le développement de sites web et offre une variété de services, notamment la conception de sites web, l'hébergement web, la gestion de noms de domaine, la maintenance continue du site, la gestion de campagnes, la création de publicités et des expériences immersives via WebGL."
+      },
+      {
+        "question": "En quoi Pedersen Web est-il différent des autres sociétés de développement web?",
+        "answer": "Pedersen Web se distingue des autres sociétés de développement web en accordant la priorité à l'accessibilité et à l'optimisation des moteurs de recherche (SEO) pour garantir que votre site web atteigne un public plus large et offre une expérience inclusive pour tous les utilisateurs. Notre équipe se tient également au courant des dernières meilleures pratiques en matière d'accessibilité web et de SEO, en mettant en œuvre des stratégies qui génèrent du trafic organique vers votre site tout en favorisant l'utilisabilité et la conformité aux normes d'accessibilité comme WCAG 2.1."
+      },
+      {
+        "question": "Que comprend le service tout compris de Pedersen Web?",
+        "answer": "Les forfaits tout compris de Pedersen Web sont conçus pour répondre aux besoins des entreprises de toutes tailles. De l'hébergement web et de la gestion de noms de domaine à la maintenance continue du site, en passant par la gestion de campagnes et la création de publicités engageantes, nous sommes déterminés à fournir un soutien complet pour votre réussite en ligne. Nos forfaits comprennent également des fonctionnalités telles que la conception et le développement web, WebGL, Node.js et Golang pour le développement en backend, ainsi que des structures de base de données robustes utilisant PostgreSQL."
+      },
+      {
+        "question": "Quels sont les tarifs de Pedersen Web?",
+        "answer": "Pedersen Web propose trois tarifs: Freelancer, Startup et Enterprise. Freelancer a un frais unique de 999 € et un frais mensuel de 19 €. Startup a un frais unique de 2 999 € et un frais mensuel de 39 €. Enterprise a un frais unique de 4 999 € et un frais mensuel de 79 €."
+      },
+      {
+        "question": "À quoi correspond le frais unique?",
+        "answer": "Le frais unique correspond à la création du site web lui-même. Le frais mensuel correspond à la maintenance et au support continu, à l'hébergement web, à la gestion de noms de domaine et à d'autres services connexes."
+      },
+      {
+        "question": "Pedersen Web propose-t-il des services de commerce électronique?",
+        "answer": "Pedersen Web peut développer des sites web de commerce électronique, mais la liste des produits et leur gestion sont généralement effectuées à l'aide d'outils externes."
+      },
+      {
+        "question": "Qu'est-ce que WebGL?",
+        "answer": "WebGL est une API JavaScript pour le rendu de graphismes interactifs 3D et 2D dans n'importe quel navigateur web compatible. Il permet de créer des expériences immersives et des visualisations en utilisant des bibliothèques telles que Three.js et GLSL."
+      },
+      {
+        "question": "Qu'est-ce que le travail Web3?",
+        "answer": "Le travail Web3 implique de tirer parti du potentiel de la technologie blockchain pour construire des applications décentralisées (dApps) qui peuvent offrir des transactions plus sûres, transparentes et vérifiables. Cela inclut la création de contrats intelligents, le développement de dApps et le travail avec des frameworks blockchain tels qu'Ethereum."
+      },
+      {
+        "question": "Qu'est-ce que Node.js?",
+        "answer": "Node.js est un environnement d'exécution open-source et multiplateforme qui permet aux développeurs d'exécuter du JavaScript côté serveur. Il est construit sur le moteur JavaScript V8 de Chrome et fournit un modèle E/S non bloquant et piloté par les événements qui le rend léger et efficace pour la création d'applications réseau évolutives."
+      }
+    ]
+  }
+}

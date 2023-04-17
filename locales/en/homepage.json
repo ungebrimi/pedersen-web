@@ -1,0 +1,87 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Crafting Immersive Web Experiences for You",
+      "description": "At Pedersen Web, I specialize in creating engaging and user-friendly websites that empower your business. With my expertise in modern frameworks and technologies, I am dedicated to helping you succeed in the digital world.",
+      "cta": "Get an offer"
+    },
+    "solutions": {
+      "sub_title": "Elevate Your Online Presence",
+      "title": "Comprehensive web solutions tailored for your business",
+      "description": "I am committed to providing you with end-to-end web development services that help you stand out in the digital landscape. My expertise spans various technologies and frameworks, enabling me to deliver exceptional web experiences for your customers and support your business growth.",
+      "list": [
+        {
+          "icon": "ResponsiveIcon",
+          "title": "Responsive Web Design",
+          "description": "I create visually appealing, functional, and mobile-friendly websites, ensuring optimal user experience across various devices and screen sizes.",
+          "href": "/",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "WebGLIcon",
+          "title": "Custom 3D Graphics",
+          "description": "Enhance your online presence with custom 3D graphics, utilizing WebGL, three.js, and GLSL for interactive and immersive experiences on your website.",
+          "href": "/",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "ServerIcon",
+          "title": "Domain and Hosting",
+          "description": "I take care of domain registration and web hosting, ensuring that your website is always accessible and performing optimally. You don't have to worry about the technical details - I've got you covered.",
+          "href": "/",
+          "cta": "Learn more"
+        }
+      ]
+    },
+    "services": {
+      "sub_title": "Streamlined Services",
+      "title": "Your one-stop shop for web development",
+      "description": "My all-inclusive packages are designed to simplify your web development journey, from concept to deployment. I take care of everything, including web hosting, domain management, backend services, and ongoing support. You can focus on your core business while I handle the rest.",
+      "list": [
+        {
+          "icon": "PerformanceIcon",
+          "title": "Web Performance",
+          "description": "I focus on optimizing your website's performance, delivering fast load times and smooth user interactions, enhancing user experience and engagement."
+        },
+        {
+          "icon": "LockIcon",
+          "title": "Secure and Reliable",
+          "description": "I prioritize security and reliability, implementing best practices and industry-standard measures to protect your website and its data."
+        },
+        {
+          "icon": "PenIcon",
+          "title": "Content Management",
+          "description": "Your website will be built with an easy-to-use content management system, allowing you to manage and update your content effortlessly."
+        },
+        {
+          "icon": "FingerprintIcon",
+          "title": "Analytics and Insights",
+          "description": "I integrate analytics tools to provide you with valuable insights into your website's performance and user behavior, helping you make data-driven decisions."
+        },
+        {
+          "icon": "GearIcon",
+          "title": "Ongoing support",
+          "description": "I offer ongoing support and maintenance services, ensuring your website remains up-to-date, secure, and fully functional at all times."
+        },
+        {
+          "icon": "CryptoIcon",
+          "title": "Web3 Integration",
+          "description": "Leveraging my expertise in Web3, I can integrate blockchain-based features and functionality into your website, embracing the decentralized future."
+        }
+      ]
+    },
+    "testimonial": {
+      "content": "I highly recommend this web developer! They explained everything clearly and worked really hard to create my website, virtualia.shop. Thank you for your great service!",
+      "person": "Kevin Nobre",
+      "role": "CEO of Virtualia Interactive Technologies",
+      "ext_link": "Visit virtualia shop"
+    },
+    "sub_banner": {
+      "title_elevate": "Elevate your online presence,",
+      "title_partner": "Partner with Pedersen Web today.",
+      "description": "Don't miss out on the opportunity to transform your business with a modern, engaging, and immersive web experience. Reach out to us and let's start crafting your success story together.",
+      "cta": "Get started",
+      "see_more": "Learn more"
+    }
+  }
+}

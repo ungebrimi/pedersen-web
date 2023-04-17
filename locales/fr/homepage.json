@@ -1,0 +1,87 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Expérience Web immersive sur mesure pour votre entreprise",
+      "description": "Chez Pedersen Web, je suis spécialisé dans la création de sites Web engageants et conviviaux qui valorisent votre entreprise. Grâce à mon expertise dans les cadres et technologies modernes, je suis déterminé à vous aider à réussir dans le monde numérique.",
+      "cta": "Obtenir une offre"
+    },
+    "solutions": {
+      "sub_title": "Améliorez votre présence en ligne",
+      "title": "Solutions Web complètes adaptées à votre entreprise",
+      "description": "Je suis engagé à fournir des services de développement Web de bout en bout qui vous aident à vous démarquer dans le paysage numérique. Mon expertise couvre diverses technologies et cadres, me permettant de fournir des expériences Web exceptionnelles pour vos clients et de soutenir la croissance de votre entreprise.",
+      "list": [
+        {
+          "icon": "ResponsiveIcon",
+          "title": "Conception de sites Web réactifs",
+          "description": "Je crée des sites Web visuellement attrayants, fonctionnels et conviviaux pour les appareils mobiles, assurant une expérience utilisateur optimale sur différents appareils et tailles d'écran.",
+          "href": "/",
+          "cta": "En savoir plus"
+        },
+        {
+          "icon": "WebGLIcon",
+          "title": "Graphiques 3D personnalisés",
+          "description": "Améliorez votre présence en ligne avec des graphiques 3D personnalisés, utilisant WebGL, three.js et GLSL pour des expériences interactives et immersives sur votre site Web.",
+          "href": "/",
+          "cta": "En savoir plus"
+        },
+        {
+          "icon": "ServerIcon",
+          "title": "Nom de domaine et hébergement",
+          "description": "Je prends en charge l'enregistrement de votre nom de domaine et l'hébergement de votre site web, garantissant ainsi une accessibilité optimale et des performances de pointe. Vous n'avez pas à vous soucier des détails techniques - je m'en occupe pour vous.",
+          "href": "/",
+          "cta": "En savoir plus"
+        }
+      ]
+    },
+    "services": {
+      "sub_title": "Services simplifiés",
+      "title": "Votre guichet unique pour le développement Web",
+      "description": "Mes forfaits tout compris sont conçus pour simplifier votre parcours de développement Web, de la conception au déploiement. Je m'occupe de tout, y compris l'hébergement Web, la gestion de domaine, les services back-end et le support continu. Vous pouvez vous concentrer sur votre activité principale pendant que je m'occupe du reste.",
+      "list": [
+        {
+          "icon": "PerformanceIcon",
+          "title": "Performance Web",
+          "description": "Je me concentre sur l'optimisation des performances de votre site Web, offrant des temps de chargement rapides et des interactions utilisateur fluides, améliorant l'expérience utilisateur et l'engagement."
+        },
+        {
+          "icon": "LockIcon",
+          "title": "Sécurité et fiabilité",
+          "description": "Je donne la priorité à la sécurité et à la fiabilité, en mettant en œuvre les meilleures pratiques et mesures de l'industrie pour protéger votre site Web et ses données."
+        },
+        {
+          "icon": "PenIcon",
+          "title": "Gestion de contenu",
+          "description": "Votre site web sera conçu avec un système de gestion de contenu facile à utiliser, vous permettant de gérer et de mettre à jour votre contenu sans effort."
+        },
+        {
+          "icon": "FingerprintIcon",
+          "title": "Analyse et Insights",
+          "description": "J'intègre des outils d'analyse pour vous fournir des informations précieuses sur les performances de votre site web et le comportement de vos utilisateurs, vous aidant à prendre des décisions basées sur les données."
+        },
+        {
+          "icon": "GearIcon",
+          "title": "Support continu",
+          "description": "Je propose des services de support et de maintenance continus, garantissant que votre site web reste à jour, sécurisé et entièrement fonctionnel en tout temps."
+        },
+        {
+          "icon": "CryptoIcon",
+          "title": "Intégration Web3",
+          "description": "En tirant parti de mon expertise en Web3, je peux intégrer des fonctionnalités et des fonctionnalités basées sur la blockchain dans votre site web, en adoptant l'avenir décentralisé."
+        }
+      ]
+    },
+    "testimonial": {
+      "content": "Je recommande vivement ce développeur web! Ils ont expliqué tout clairement et ont travaillé très dur pour créer mon site web, virtualia.shop. Merci pour votre excellent service!",
+      "person": "Kevin Nobre",
+      "role": "PDG de Virtualia Interactive Technologies",
+      "ext_link": "Visiter virtualia shop"
+    },
+    "sub_banner": {
+      "title_elevate": "Élevez votre présence en ligne,",
+      "title_partner": "Partenaire avec Pedersen Web aujourd'hui.",
+      "description": "Ne manquez pas l'occasion de transformer votre entreprise avec une expérience web moderne, attrayante et immersive. Contactez-nous et commençons à écrire votre histoire de réussite ensemble.",
+      "cta": "Commencer",
+      "see_more": "En savoir plus"
+    }
+  }
+}

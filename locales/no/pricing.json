@@ -1,0 +1,145 @@
+{
+  "header": {
+    "sub_title": "Priser",
+    "title": "Mine prispakker",
+    "description": "Velg en rimelig plan som er pakket med de beste funksjonene for å engasjere publikum, skape kundelojalitet og øke salget.",
+    "disclaimer": "Merk: Prisene er ment som en indikasjon og andre variabler kan påvirke totalprisen. Hver nettside er unik og kan kreve forskjellige tilpasninger."
+  },
+  "pricing": {
+    "yearly": "årlig",
+    "monthly": "månedlig",
+    "most_popular": "Populær",
+    "order": "Bestill",
+    "frequencies": [
+      {
+        "value": "monthly",
+        "label": "Månedlig",
+        "priceSuffix": "/måned"
+      },
+      {
+        "value": "annually",
+        "label": "Årlig",
+        "priceSuffix": "/år"
+      }
+    ],
+    "tiers": [
+      {
+        "name": "Frilanser",
+        "id": "tier-frilanser",
+        "href": "#",
+        "price": {
+          "monthly": "190 kr",
+          "annually": "2050 kr"
+        },
+        "description": "Det grunnleggende for å levere ditt beste arbeid til kunder.",
+        "features": [
+          "Opptil 5 sider",
+          "Kontaktskjema",
+          "Grunnleggende analyse",
+          "SSL-sertifikat",
+          "Responsivt design"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "9990 kr"
+      },
+      {
+        "name": "Oppstart",
+        "id": "tier-oppstart",
+        "href": "#",
+        "price": {
+          "monthly": "390 kr",
+          "annually": "4220 kr"
+        },
+        "description": "En plan som skalerer med din raskt voksende bedrift.",
+        "features": [
+          "Opptil 20 sider",
+          "Avansert analyse",
+          "Kontaktskjema",
+          "SSL-sertifikat",
+          "Responsivt design",
+          "Markedsføringsautomatisering"
+        ],
+        "mostPopular": true,
+        "oneTimeFee": "29990 kr"
+      },
+      {
+        "name": "Bedrift",
+        "id": "tier-bedrift",
+        "href": "#",
+        "price": {
+          "monthly": "790 kr",
+          "annually": "8540 kr"
+        },
+        "description": "Dedikert støtte og infrastruktur for din bedrift.",
+        "features": [
+          "Ubegrensede sider",
+          "Ubegrensede produkter",
+          "Avansert analyse",
+          "Kontaktskjema",
+          "SSL-sertifikat",
+          "Responsivt design",
+          "Markedsføringsautomatisering",
+          "Egendefinerte rapporteringsverktøy"
+        ],
+        "mostPopular": false,
+        "oneTimeFee": "49990 kr"
+      }
+    ]
+  },
+  "reviews": {
+    "person_left": {
+      "name": "Jesus Escobar",
+      "role": "CEO i Digitalmagic888",
+      "review": "“Joakim har en imponerende arbeidsetikk og går den ekstra milen, noe som vises i arbeidet hans. Digitalmagic888 anbefaler ham på det sterkeste som WebGL- og full-stack-webutvikler.”"
+    },
+    "person_right": {
+      "name": "Vic Kwanten",
+      "role": "Proffesjonell BMX-utøver",
+      "review": "“Jeg er veldig takknemlig for Joakims arbeid og hjelpsomhet. Jeg kunne ikke bedt om et bedre samarbeid! Jeg er veldig fornøyd med resultatene. Tusen takk!”"
+    }
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "description_first": "Har du et annet spørsmål og finner ikke svaret du leter etter? Ta kontakt med vår supportteam ved å ",
+    "send_email": "sende meg en e-post",
+    "description_second": ", så vil vi komme tilbake til deg så snart som mulig.",
+    "questions": [
+      {
+        "question": "Hvilke tjenester tilbyr Pedersen Web?",
+        "answer": "Pedersen Web spesialiserer seg på nettsideutvikling og tilbyr en rekke tjenester inkludert nettsidedesign, webhotell, domeneadministrasjon, vedlikehold av nettsted, kampanjestyring, opprettelse av annonser og immersive opplevelser gjennom WebGL."
+      },
+      {
+        "question": "Hva gjør Pedersen Web annerledes enn andre webutviklingsfirmaer?",
+        "answer": "Pedersen Web skiller seg ut fra andre webutviklingsfirmaer ved å prioritere tilgjengelighet og søkemotoroptimalisering (SEO) for å sikre at nettstedet ditt når ut til en bredere målgruppe og gir en inkluderende opplevelse for alle brukere. Vårt team holder seg også oppdatert på de nyeste beste praksisene innen webtilgjengelighet og SEO, og implementerer strategier som driver organisk trafikk til nettstedet ditt samtidig som de fremmer brukervennlighet og samsvar med tilgjengelighetsstandarder som WCAG 2.1."
+      },
+      {
+        "question": "Hva er inkludert i Pedersen Web's alt-i-ett servicepakker?",
+        "answer": "Pedersen Web's alt-i-ett servicepakker er designet for å imøtekomme virksomheter i alle størrelser. Fra webhotell og domeneadministrasjon til vedlikehold av nettsted, kjøre kampanjer og opprette engasjerende annonser, er vi dedikert til å gi omfattende støtte for din online suksess. Våre pakker inkluderer også funksjoner som webdesign og utvikling, WebGL, Node.js og Golang for bakende utvikling, og robuste databasestrukturer ved hjelp av PostgreSQL."
+      },
+      {
+        "question": "Hva er Pedersen Web's priser?",
+        "answer": "Pedersen Web tilbyr tre priser: Frilanser, Oppstart og Bedrift. Frilanser har en engangsavgift på 999 € og en månedlig avgift på 19 €. Oppstart har en engangsavgift på 2 999 € og en månedlig avgift på 39 €. Bedrift har en engangsavgift på 4 999 € og en månedlig avgift på 79 €."
+      },
+      {
+        "question": "Hva er engangsavgiften for?",
+        "answer": "Engangsavgiften er for opprettelsen av selve nettstedet. Den månedlige avgiften er for vedlikehold og støtte, webhotell, domeneadministrasjon og andre relaterte tjenester."
+      },
+      {
+        "question": "Tilbyr Pedersen Web e-handelstjenester?",
+        "answer": "Pedersen Web kan utvikle e-handelsnettsteder, men produktoppføring og administrasjon gjøres vanligvis gjennom eksterne verktøy."
+      },
+      {
+        "question": "Hva er WebGL?",
+        "answer": "WebGL er en JavaScript-API for rendering av interaktive 3D- og 2D-grafikk innenfor hvilken som helst kompatibel nettleser. Det tillater opprettelse av immersive opplevelser og visualiseringer ved hjelp av biblioteker som Three.js og GLSL."
+      },
+      {
+        "question": "Hva er Web3-arbeid?",
+        "answer": "Web3-arbeid innebærer å utnytte potensialet til blockchain-teknologi for å bygge desentraliserte applikasjoner (dApps) som kan gi mer sikre, gjennomsiktige og verifiserbare transaksjoner. Dette inkluderer opprettelse av smarte kontrakter, utvikling av dApps og arbeid med blockchain-rammeverk som Ethereum."
+      },
+      {
+        "question": "Hva er Node.js?",
+        "answer": "Node.js er et tverrplattform, åpen kildekode kjøretidsmiljø som lar utviklere kjøre JavaScript på server-siden. Det er bygd på Chrome's V8 JavaScript-motor og gir en hendelsesdrevet, ikke-blokkerende I/O-modell som gjør det lett og effektivt å bygge skalérbare nettverksapplikasjoner."
+      }
+    ]
+  }
+}

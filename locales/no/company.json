@@ -1,0 +1,72 @@
+{
+  "company": {
+    "header": {
+      "title": "Skaper immersive nettopplevelser",
+      "description": "Hos Pedersen Web er jeg lidenskapelig opptatt av å forvandle ideer til fengslende nettbaserte opplevelser. Min misjon er å forenkle nettet samtidig som jeg styrker bedrifter til å blomstre i den digitale verden."
+    },
+    "content": {
+      "first_part": "Jeg spesialiserer meg på å utnytte moderne rammeverk som Next.js, Vue og robuste databasestrukturer ved bruk av PostgreSQL for å bygge engasjerende nettsider. Min ekspertise innen Node.js og Golang for backend-utvikling sikrer sømløs integrering og førsteklasses ytelse.",
+      "second_part": "Mine all-inclusive-servicepakker er designet for å tilfredsstille behovene til bedrifter i alle størrelser. Fra webhotell og domeneadministrasjon til løpende vedlikehold av nettsiden din, kjøre kampanjer og skape engasjerende annonser, er jeg dedikert til å gi omfattende støtte for din online suksess.",
+      "third_part": "Min lidenskap for nettet strekker seg til å skape immersiv opplevelse gjennom WebGL, ved å bruke biblioteker som Three.js og GLSL for å utvikle imponerende visualiseringer. Jeg er også godt kjent med Web3-arbeid, og hjelper bedrifter med å utnytte potensialet til blockchain-teknologi.",
+      "fourth_part": "Jeg prioriterer tilgjengelighet og søkemotoroptimalisering (SEO) for å sikre at nettstedet ditt når et bredere publikum og gir en inkluderende opplevelse for alle brukere. Jeg holder meg oppdatert på de nyeste beste praksisene innen tilgjengelighet på nett og SEO, og implementerer strategier som øker organisk trafikk til nettstedet ditt samtidig som brukervennlighet og samsvar med tilgjengelighetsstandarder som WCAG 2.1 blir fremmet."
+    },
+    "stats": [
+      {
+        "label": "Bedriften ble grunnlagt",
+        "value": "2021"
+      },
+      {
+        "label": "Fullførte prosjekter",
+        "value": "18"
+      },
+      {
+        "label": "Langvarige kunder",
+        "value": "2"
+      },
+      {
+        "label": "Gjennomsnittlig kundetilfredshet",
+        "value": "95%"
+      }
+    ],
+    "values": {
+      "title": "Kjerneverdier",
+      "description": "Hos Pedersen Web fungerer verdiene våre som grunnlaget for arbeidet vårt, og former vår tilnærming til hvert prosjekt og styrer vår samhandling med kunder og teammedlemmer. Vi er opptatt av å fremme et positivt samarbeidsmiljø som legger vekt på dyktighet, ansvarlighet og kontinuerlig læring.",
+      "list": [
+        {
+          "name": "Vær verdensklasse.",
+          "description": "Jeg streber etter å være utmerket i alt jeg gjør og sikter mot å levere de beste løsningene for mine kunder.",
+          "icon": "RocketLaunchIcon"
+        },
+        {
+          "name": "Ta ansvar.",
+          "description": "Jeg holder meg selv ansvarlig for mine handlinger og tar eierskap til prosjektene mine, og sørger for å oppfylle kundenes forventninger.",
+          "icon": "HandRaisedIcon"
+        },
+        {
+          "name": "Vær støttende.",
+          "description": "Jeg fremmer et samarbeidsmiljø og oppmuntrer til åpen kommunikasjon og støtte for å hjelpe kundene mine med å vokse.",
+          "icon": "UserGroupIcon"
+        },
+        {
+          "name": "Alltid lærende.",
+          "description": "Jeg søker kontinuerlig muligheter for å lære og forbedre ferdighetene mine, og holder meg oppdatert på bransjetrender og utvikling.",
+          "icon": "AcademicCapIcon"
+        },
+        {
+          "name": "Del alt du vet.",
+          "description": "Jeg tror på kraften i kunnskapsdeling og deler åpent min ekspertise med kundene mine for felles suksess.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "name": "Nyt fritiden.",
+          "description": "Jeg verdsetter balansen mellom arbeid og fritid og anerkjenner betydningen av hvile for å opprettholde et lykkelig, sunt og produktivt arbeidsmiljø.",
+          "icon": "SunIcon"
+        }
+      ]
+    },
+    "about": {
+      "title": "Om meg",
+      "description": "Som grunnlegger av Pedersen Web har min varierte bakgrunn formet min unike tilnærming til webutvikling. Jeg har jobbet i forskjellige bransjer, fra bygg til salg, og har til og med drevet mitt eget fiskefirma. Min lidenskap for fiske, matlaging og skaping driver jakten på dyktighet i teknologiverdenen. Erfaringene mine har lært meg å tilpasse meg og utmerke meg på ethvert felt, noe som gjør at jeg kan bringe et vell av kunnskap og ekspertise til hvert prosjekt jeg påtar meg."
+    }
+  }
+}
