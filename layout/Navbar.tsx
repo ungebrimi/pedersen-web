@@ -11,11 +11,13 @@ type LinkType = {
 
 const Navbar = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const { t, i18n } = useTranslation("navigation");
+  const [navigation, setNavigation] = useState<LinkType[]>([]);
+  const { t } = useTranslation("navigation");
+
   useEffect(() => {
-    i18n.changeLanguage("no");
-  }, []);
-  const navigation: LinkType[] = t("navigation.links", { returnObjects: true });
+    const nav: any = t("navigation.links", { returnObjects: true });
+    setNavigation(nav);
+  }, [t]);
 
   return (
     <header className="absolute inset-x-0 top-0 z-50 bg-gray-900">

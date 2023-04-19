@@ -12,9 +12,6 @@ type Value = {
 
 export default function Company() {
   const { t } = useTranslation("company");
-  // useEffect(() => {
-  //   i18n.changeLanguage("no");
-  // }, []);
 
   const values: Value[] = t("company.values.list", { returnObjects: true });
   const stats: Stat[] = t("company.stats", { returnObjects: true });

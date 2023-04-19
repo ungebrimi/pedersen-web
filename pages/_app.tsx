@@ -8,7 +8,7 @@ import { Suspense } from "react";
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <I18nextProvider i18n={i18n}>
-      <Suspense fallback="loadin">
+      <Suspense fallback="loading">
         <Layout>
           <Component {...pageProps} />
         </Layout>

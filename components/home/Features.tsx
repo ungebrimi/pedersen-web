@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import {
   PaintBrushIcon,
   Cog6ToothIcon,
@@ -12,7 +12,7 @@ import {
   RocketLaunchIcon,
   CubeIcon,
 } from "@heroicons/react/24/outline";
-import { useTranslation } from "next-i18next";
+import { useTranslation } from "react-i18next";
 
 const iconMap = {
   PerformanceIcon: BoltIcon,
@@ -36,14 +36,26 @@ function getIconComponent(iconName: string) {
   return iconComponent;
 }
 
+type Feature = {
+  title: string;
+  description: string;
+  cta: string;
+  href: string;
+  icon: string;
+};
+
 const Features = () => {
   const { t } = useTranslation("homepage");
-  const primaryFeatures: any = t("homepage.solutions.list", {
-    returnObjects: true,
-  });
-  const secondaryFeatures: any = t("homepage.services.list", {
-    returnObjects: true,
-  });
+  const [primaryFeatures, setPrimaryFeatures] = useState<Feature[]>([]);
+  const [secondaryFeatures, setSecondaryFeatures] = useState<Feature[]>([]);
+
+  useEffect(() => {
+    const primary: any = t("homepage.solutions.list", { returnObjects: true });
+    const secondary: any = t("homepage.services.list", { returnObjects: true });
+    setPrimaryFeatures(primary);
+    setSecondaryFeatures(secondary);
+  }, [t]);
+
   return (
     <section>
       <div className="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">

@@ -15,7 +15,6 @@ export default function Index() {
   });
   const tiers: any = t("pricing.tiers", { returnObjects: true });
   const faqs: any = t("faq.questions", { returnObjects: true });
-  console.log(faqs);
   const [frequency, setFrequency] = useState(frequencies[0]);
 
   return (
