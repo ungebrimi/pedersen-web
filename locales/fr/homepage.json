@@ -14,21 +14,21 @@
           "icon": "ResponsiveIcon",
           "title": "Conception de sites Web réactifs",
           "description": "Je crée des sites Web visuellement attrayants, fonctionnels et conviviaux pour les appareils mobiles, assurant une expérience utilisateur optimale sur différents appareils et tailles d'écran.",
-          "href": "/",
+          "href": "/web",
           "cta": "En savoir plus"
         },
         {
           "icon": "WebGLIcon",
           "title": "Graphiques 3D personnalisés",
           "description": "Améliorez votre présence en ligne avec des graphiques 3D personnalisés, utilisant WebGL, three.js et GLSL pour des expériences interactives et immersives sur votre site Web.",
-          "href": "/",
+          "href": "/webgl",
           "cta": "En savoir plus"
         },
         {
           "icon": "ServerIcon",
           "title": "Nom de domaine et hébergement",
           "description": "Je prends en charge l'enregistrement de votre nom de domaine et l'hébergement de votre site web, garantissant ainsi une accessibilité optimale et des performances de pointe. Vous n'avez pas à vous soucier des détails techniques - je m'en occupe pour vous.",
-          "href": "/",
+          "href": "/hosting",
           "cta": "En savoir plus"
         }
       ]

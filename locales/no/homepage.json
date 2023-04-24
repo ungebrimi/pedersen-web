@@ -14,21 +14,21 @@
           "icon": "ResponsiveIcon",
           "title": "Responsivt webdesign",
           "description": "Jeg skaper visuelt tiltalende, funksjonelle og mobilevennlige nettsider, og sørger for optimal brukeropplevelse på tvers av ulike enheter og skjermstørrelser.",
-          "href": "/",
+          "href": "/web",
           "cta": "Lær mer"
         },
         {
           "icon": "WebGLIcon",
           "title": "Tilpasset 3D-grafikk",
           "description": "Forbedre din online tilstedeværelse med tilpasset 3D-grafikk, ved å bruke WebGL, three.js og GLSL for interaktive og fengslende opplevelser på din nettside.",
-          "href": "/",
+          "href": "/webgl",
           "cta": "Lær mer"
         },
         {
           "icon": "ServerIcon",
           "title": "Domene og hosting",
           "description": "Jeg tar hånd om domeneregistrering og webhotell, slik at nettsiden din alltid er tilgjengelig og yter optimalt. Du trenger ikke bekymre deg for tekniske detaljer - jeg tar meg av alt det.",
-          "href": "/",
+          "href": "/hosting",
           "cta": "Lær mer"
         }
       ]

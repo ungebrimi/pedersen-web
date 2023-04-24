@@ -155,7 +155,7 @@ export default function Index() {
           <div className="flex flex-col border-t border-white/10 pt-10 sm:pt-16 lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0 xl:pl-20">
             <figure className="mt-10 flex flex-auto flex-col justify-between">
               <blockquote className="text-lg leading-8 text-white">
-                <p>{t("reviews.person_left.review")}</p>
+                <p>{t("reviews.person_right.review")}</p>
               </blockquote>
               <figcaption className="mt-10 flex items-center gap-x-6">
                 <img

@@ -61,10 +61,10 @@ const CTA = () => {
           >
             {t("homepage.sub_banner.cta")}
           </a>
-          <a href="#" className="text-sm font-semibold leading-6 text-white">
+          {/*<a href="#" className="text-sm font-semibold leading-6 text-white">
             {t("homepage.sub_banner.see_more")}{" "}
             <span aria-hidden="true">→</span>
-          </a>
+          </a>*/}
         </div>
       </div>
     </div>
