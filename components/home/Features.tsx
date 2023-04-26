@@ -13,6 +13,7 @@ import {
   CubeIcon,
 } from "@heroicons/react/24/outline";
 import { useTranslation } from "react-i18next";
+import Image from "next/image";
 
 const iconMap = {
   PerformanceIcon: BoltIcon,
@@ -125,7 +126,7 @@ const Features = () => {
 
         <div className="relative overflow-hidden pt-16">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
-            <img
+            <Image
               src="/webdev.jpg"
               alt="App screenshot"
               className="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10"

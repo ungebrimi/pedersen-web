@@ -1,4 +1,5 @@
 import { useTranslation } from "next-i18next";
+import Image from "next/image";
 
 type Stat = {
   label: string;
@@ -78,7 +79,7 @@ export default function Company() {
 
       {/* Image section */}
       <div className="mt-32 sm:mt-40 xl:mx-auto xl:max-w-7xl xl:px-8">
-        <img
+        <Image
           src="https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2894&q=80"
           alt=""
           className="aspect-[9/4] w-full object-cover xl:rounded-3xl"
@@ -113,7 +114,7 @@ export default function Company() {
       <div className="relative isolate -z-10 mt-32 sm:mt-40">
         <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="mx-auto flex max-w-2xl flex-col gap-16 bg-white/5 px-6 py-16 ring-1 ring-white/10 sm:rounded-3xl sm:p-8 lg:mx-0 lg:max-w-none lg:flex-row lg:items-center lg:py-20 xl:gap-x-20 xl:px-20">
-            <img
+            <Image
               className="h-96 w-full flex-none rounded-2xl object-cover shadow-xl lg:aspect-square lg:h-auto lg:max-w-sm"
               src="/profile2.png"
               alt=""

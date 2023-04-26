@@ -14,21 +14,21 @@
           "icon": "ResponsiveIcon",
           "title": "Responsive Web Design",
           "description": "I create visually appealing, functional, and mobile-friendly websites, ensuring optimal user experience across various devices and screen sizes.",
-          "href": "/web",
+          "href": "/products/web",
           "cta": "Learn more"
         },
         {
           "icon": "WebGLIcon",
           "title": "Custom 3D Graphics",
           "description": "Enhance your online presence with custom 3D graphics, utilizing WebGL, three.js, and GLSL for interactive and immersive experiences on your website.",
-          "href": "/webgl",
+          "href": "/products/webgl",
           "cta": "Learn more"
         },
         {
           "icon": "ServerIcon",
           "title": "Domain and Hosting",
           "description": "I take care of domain registration and web hosting, ensuring that your website is always accessible and performing optimally. You don't have to worry about the technical details - I've got you covered.",
-          "href": "/hosting",
+          "href": "/products/hosting",
           "cta": "Learn more"
         }
       ]
